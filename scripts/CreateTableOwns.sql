@@ -1,4 +1,4 @@
-CREATE TABLE OWNS(
+CREATE TABLE Owns(
 	EquipID int,
 	ExorcistID int,
 	PRIMARY KEY(EquipID, ExorcistID),

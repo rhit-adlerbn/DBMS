@@ -1,5 +1,5 @@
 CREATE TABLE Requests(
-	DemonName varchar(30),
+	DemonName nvarchar(30),
 	EID int,
 	CID int,
 	RequestDatetime Datetime,
